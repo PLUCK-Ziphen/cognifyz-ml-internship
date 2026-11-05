@@ -1,0 +1,10 @@
+# Third-party dataset
+Dataset_for_cognifyz.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
